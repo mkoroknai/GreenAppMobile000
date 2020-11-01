@@ -1,0 +1,7 @@
+#Sun Nov 01 19:23:47 CET 2020
+base.0=D\:\\BME\\SzoftverArchitekturak\\hf\\KornyTudApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\BME\\SzoftverArchitekturak\\hf\\KornyTudApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex

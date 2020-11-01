@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "847193487481",
+    "firebase_url": "https://kornytudapp.firebaseio.com",
+    "project_id": "kornytudapp",
+    "storage_bucket": "kornytudapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847193487481:android:aee013f5f82e1169f7bca8",
+        "android_client_info": {
+          "package_name": "com.example.kornytudapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847193487481-5509r4cjnb884okss8ckc2lme86sppls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kornytudapp",
+            "certificate_hash": "a14f2245607f0812c08784989bfe9e2ca0128314"
+          }
+        },
+        {
+          "client_id": "847193487481-ba0btch32rglofbo0l93vm1mr2mupaou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsEgL7UuWNaETPtAMpQR79sXl1OoV0H8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847193487481-ba0btch32rglofbo0l93vm1mr2mupaou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
